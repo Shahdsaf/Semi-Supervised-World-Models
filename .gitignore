@@ -1,0 +1,5 @@
+# ignore log and checkpoints files 
+*.tar
+*.npz
+*.log
+*.pkl
